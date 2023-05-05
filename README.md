@@ -3,7 +3,7 @@
 - 👀 I’m interested in Data Science, Data Visualisation & Environment/Civil Engineering
 - 🌱 I’m currently learning Python & Power BI
 - 💞️ I’m looking to collaborate on Learning New Things
-- 📫 How to reach me @Meloni27
+- 📫 How to reach me @MelRoh
 
 <!---
 Meloni27/Meloni27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
